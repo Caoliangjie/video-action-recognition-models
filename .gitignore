@@ -1,0 +1,9 @@
+# IDE
+.idea
+.vscode
+.project
+.pydevproject
+.settings
+
+# Python
+**/__pycache__
